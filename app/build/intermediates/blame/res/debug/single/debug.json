@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_graph.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\graph.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_screen.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\screen.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acceleration.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_acceleration.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gps.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_gps.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cercler.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\cercler.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gps.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\gps.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_style.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\style.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_imagepiste.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\imagepiste.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cerclev.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\cerclev.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gopro.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\gopro.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avion.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\avion.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noir.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\noir.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_screen.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_invisible.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\invisible.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_plus_selected.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\btn_plus_selected.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_minus_selected.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\btn_minus_selected.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_option.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\option.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_analyse.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_analyse.xml"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bluet.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\bluet.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carte.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\carte.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white.png.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\white.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_led.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\led.xml"
+    }
+]

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btnBackground">#00000000</color>
+    <color name="textColor">#ffffffff</color>
+    <dimen name="activity_horizontal_margin">4dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="layoutMarginTop">30dp</dimen>
+    <dimen name="textSize">18dp</dimen>
+    <string name="ARD">ARD</string>
+    <string name="ARG">ARG</string>
+    <string name="AV">AV</string>
+    <string name="BP"><b>Bouton de Paramétree</b></string>
+    <string name="GPS">GPS</string>
+    <string name="Red">rouge</string>
+    <string name="acc">Acc</string>
+    <string name="acce">Accélérations : </string>
+    <string name="action_settings">Settings</string>
+    <string name="analyse">Historique des vols</string>
+    <string name="app_name">Hard Landing</string>
+    <string name="bienvenue">bienvenue</string>
+    <string name="black">noirs</string>
+    <string name="bluet"><b>Activation du BLUETOOTH</b></string>
+    <string name="connectionGPS"><b>Activation du GPS</b></string>
+    <string name="contact">contact piste</string>
+    <string name="gopro">Caméra</string>
+    <string name="graphe">Graphe</string>
+    <string name="hard">Hard Landing</string>
+    <string name="hello">Hello world!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="historique">Historique des vols</string>
+    <string name="kg">000kg</string>
+    <string name="ledR">Rouge</string>
+    <string name="ledV">Vert</string>
+    <string name="masse">Masse embarquée</string>
+    <string name="masses">Masses : </string>
+    <string name="menu"><b>MENU</b></string>
+    <string name="nouveau">Démarrer un nouveau vol</string>
+    <string name="poids">entrée votre poids</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_GPS">GPS</string>
+    <string name="title_activity_acceleration">Accélération</string>
+    <string name="title_activity_analyse">Analyse des données</string>
+    <string name="title_activity_database">Database</string>
+    <string name="title_activity_go_pro">GoPro</string>
+    <string name="title_activity_graphe">Graphe</string>
+    <string name="title_activity_home_screen">Accueil</string>
+    <string name="title_activity_masse">Masse</string>
+    <string name="vol">en vol</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="BtnStyle">
+	<item name="android:layout_width">wrap_content</item>
+	<item name="android:layout_height">wrap_content</item>
+	<item name="android:textColor">@color/textColor</item>
+	<item name="android:textSize">@dimen/textSize</item>
+	<item name="android:background">@color/btnBackground</item>
+	<item name="android:layout_marginTop">@dimen/layoutMarginTop</item>
+	<item name="android:layout_gravity">center_horizontal</item>
+</style>
+</resources>
