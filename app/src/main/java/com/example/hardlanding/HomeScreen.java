@@ -19,6 +19,7 @@ public class HomeScreen extends Activity implements OnClickListener
 	private Button analyse = null;	//accés au courbes (Historique des vols)
 	BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
 	private int hauteurEcran = 0, largeurEcran = 0;
+	private int testSession;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
