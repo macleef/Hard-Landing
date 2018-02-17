@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<<<<<<< HEAD
 <items version="2" >
 
     <item
@@ -24,3 +26,57 @@
     </item>
 
 </items>
+=======
+<items version="2" >
+
+    <item
+        jar="C:\Users\florian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-b6ad7f5521fad75882a2de5f7d58f5b5f5631f47.jar" />
+    </item>
+    <item
+        jar="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b5244bb1efccce59729b5bc6e8e2aa2085c89832.jar" />
+    </item>
+    <item
+        jar="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\pre-dexed\debug\classes-5f5692fa23872bdaaa0df17486409d6da3035bbc.jar" />
+    </item>
+
+</items>
+>>>>>>> a9f2c331ced695e2ea61c04d8a2ad474b009edb2
+=======
+<items version="2" >
+
+    <item
+        jar="C:\Users\florian\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-b6ad7f5521fad75882a2de5f7d58f5b5f5631f47.jar" />
+    </item>
+    <item
+        jar="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b5244bb1efccce59729b5bc6e8e2aa2085c89832.jar" />
+    </item>
+    <item
+        jar="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\Florian\Android Projet\HardLanding 1.2\app\build\intermediates\pre-dexed\debug\classes-5f5692fa23872bdaaa0df17486409d6da3035bbc.jar" />
+    </item>
+
+</items>
+>>>>>>> a9f2c331ced695e2ea61c04d8a2ad474b009edb2

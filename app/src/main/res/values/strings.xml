@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hard Landing</string>
+    <string name="title_activity_acceleration">Accélération</string>
+    <string name="title_activity_go_pro">GoPro</string>
+    <string name="title_activity_masse">Masse</string>
+    <string name="title_activity_analyse">Analyse des données</string>
+    <string name="title_activity_database">Database</string>
+    <string name="title_activity_graphe">Graphe</string>
+    <string name="title_activity_home_screen">Accueil</string>
+    <string name="title_activity_GPS">GPS</string>
+    <string name="settings">Settings</string>
+    <string name="hello">Hello world!</string>
+    <string name="masse">Masse embarquée</string>
+    <string name="ledV">Vert</string>
+    <string name="ledR">Rouge</string>
+    <string name="bienvenue">bienvenue</string>
+    <string name="acc">Acc</string>
+    <string name="poids">entrée votre poids</string>
+    <string name="Red">rouge</string>
+    <string name="black">noirs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="gopro">Caméra</string>
+    <string name="analyse">Historique des vols</string>
+    <string name="graphe">Graphe</string>
+    <string name="nouveau">Démarrer un nouveau vol</string>
+    <string name="hard">Hard Landing</string>
+    <string name="historique">Historique des vols</string>
+    <string name="connectionGPS"><b>Activation du GPS</b></string>
+    <string name="bluet"><b>Activation du BLUETOOTH</b></string>
+    <string name="menu"><b>MENU</b></string>
+    <string name="BP"><b>Bouton de Paramétree</b></string>
+    <string name="acce">Accélérations : </string>
+    <string name="masses">Masses : </string>
+    <string name="AV">AV</string>
+    <string name="kg">000kg</string>
+    <string name="ARD">ARD</string>
+    <string name="ARG">ARG</string>
+    <string name="contact">contact piste</string>
+    <string name="vol">en vol</string>
+    <string name="GPS">GPS</string>
+
+    
+
+</resources>

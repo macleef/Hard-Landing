@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imagepiste"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    android:keepScreenOn="true" >
+
+    <Button
+        android:id="@+id/acceleration"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/analyse"
+        android:text="@string/hard"
+        android:onClick="onClick"
+        android:textColor="#05f"
+        android:background="@drawable/style"
+        android:textSize="20sp"        
+        />
+
+    <Button
+        android:id="@+id/analyse"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/GPS"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/analyse" 
+        android:onClick="onClick"        
+        android:textColor="#05f"
+        android:background="@drawable/style"
+        android:textSize="20sp" />
+    
+      <Button
+        android:id="@+id/GPS"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/GPS" 
+        android:onClick="onClick"        
+        android:textColor="#05f"
+        android:background="@drawable/style"
+        android:textSize="20sp" />
+        
+      <Button
+        android:id="@+id/gopro"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/GPS"
+        android:layout_centerHorizontal="true"
+        android:text="@string/gopro"
+        android:onClick="onClick" 
+        android:textAppearance="@style/BtnStyle"
+        android:textColor="#05f"
+        android:background="@drawable/style"
+        android:textSize="20sp" />
+
+</RelativeLayout>
+<!-- From: file:/E:/Florian/Android%20Projet/HardLanding%201.2/app/src/main/res/layout/activity_main.xml -->

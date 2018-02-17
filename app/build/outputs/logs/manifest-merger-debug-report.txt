@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\florian\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\18db422e7bb156322911ab458ce09ad3\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\florian\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\18db422e7bb156322911ab458ce09ad3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\florian\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\18db422e7bb156322911ab458ce09ad3\AndroidManifest.xml:20:5-43
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:15:22-78
+application
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:17:5-58:19
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\florian\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\18db422e7bb156322911ab458ce09ad3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\florian\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\18db422e7bb156322911ab458ce09ad3\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:20:9-41
+	android:debuggable
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:22:9-34
+	android:icon
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.hardlanding.MainActivity
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:25:46-82
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:24:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.hardlanding.Acceleration
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:35:13-64
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:33:13-64
+activity#com.example.hardlanding.Analyse
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:screenOrientation
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:40:60-96
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:40:13-59
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:39:13-59
+activity#com.example.hardlanding.Graphe
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:screenOrientation
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:44:59-95
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:43:13-58
+activity#com.example.hardlanding.GPS
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:46:16-49:20
+	android:screenOrientation
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:48:56-92
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:47:13-55
+activity#com.example.hardlanding.HomeScreen
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:50:9-57:20
+	android:screenOrientation
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:52:64-100
+	android:label
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:52:13-63
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:51:13-62
+intent-filter#android.intent.category.DEFAULT+com.tutorial.CLEARSCREEN
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:53:13-56:29
+action#com.tutorial.CLEARSCREEN
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:54:17-67
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:54:25-64
+category#android.intent.category.DEFAULT
+ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from E:\Florian\Android Projet\HardLanding 1.2\app\src\main\AndroidManifest.xml:55:27-73

@@ -1,0 +1,76 @@
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+>
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="367dp"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" 
+    android:keepScreenOn="true">
+
+	<Button
+	    android:id="@+id/effacer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="effacer"
+         android:layout_centerHorizontal="true"	
+         android:layout_toRightOf="@+id/courbe"
+         android:layout_marginLeft="20dp"
+         android:textSize="20dp"
+	    />
+	<Button
+	    android:id="@+id/courbe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="courbe"
+        android:layout_centerHorizontal="true"	
+        android:textSize="20dp"
+        
+	    />
+    <CheckBox
+        android:id="@+id/fichier1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:layout_below="@+id/information"
+        android:layout_marginTop="80dp"
+         />
+    
+    <CheckBox
+        android:id="@+id/fichier2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" 
+        android:layout_below="@+id/fichier1"
+        />
+    <CheckBox
+        android:id="@+id/fichier3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:layout_below="@+id/fichier2"
+         />
+    <CheckBox
+        android:id="@+id/fichier4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:layout_below="@+id/fichier3"
+         />
+    <CheckBox
+        android:id="@+id/fichier5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"
+        android:layout_below="@+id/fichier4"
+         />
+
+
+
+</RelativeLayout>
+</ScrollView>

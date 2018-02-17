@@ -20,12 +20,12 @@
         "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\back.xml"
     },
     {
-        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gps.xml.flat",
-        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_gps.xml"
-    },
-    {
         "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cercler.png.flat",
         "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\drawable\\cercler.png"
+    },
+    {
+        "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gps.xml.flat",
+        "source": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\src\\main\\res\\layout\\activity_gps.xml"
     },
     {
         "merged": "E:\\Florian\\Android Projet\\HardLanding 1.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gps.png.flat",

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hardlanding"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" 
+        android:debuggable="true">
+        <activity
+            android:name="com.example.hardlanding.MainActivity"
+            android:label="@string/app_name" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.hardlanding.Acceleration"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_acceleration" >
+        </activity>
+
+        <activity
+            android:name="com.example.hardlanding.Analyse"
+            android:label="@string/title_activity_analyse" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.hardlanding.Graphe"
+            android:label="@string/title_activity_graphe" android:screenOrientation="portrait">
+        </activity>
+               <activity
+            android:name="com.example.hardlanding.GPS"
+            android:label="@string/title_activity_GPS" android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.example.hardlanding.HomeScreen"
+            android:label="@string/title_activity_home_screen" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.tutorial.CLEARSCREEN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
